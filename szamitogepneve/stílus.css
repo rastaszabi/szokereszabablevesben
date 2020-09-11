@@ -20,10 +20,10 @@ div {
 	margin: 10px 20px; 
 	margin-left: 20px;
 	margin-right: 20px;
-	margint-top: 64px;
+	margin-top: 64px;
 }
 hr {
-	// width 50%; 
+	/* width 50%; */ 
 	height: 8px;
 	background-color: grey;	
 	border-radius: 6px;
@@ -31,3 +31,4 @@ hr {
 h1, h3 {
 	text-align: center;
 	color:rgb(80, 80, 80);
+}
